@@ -23,6 +23,40 @@
         "id": "https://ioduok.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/canvas",
         "type": "Canvas",
         "duration": 372.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ioduok.github.io/the-speed-of-darkness/annotations/the-speed-of-darkness-canvas-1-second-poem.json",
+            "label": {
+              "none": ["second poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ioduok.github.io/the-speed-of-darkness/annotations/the-speed-of-darkness-canvas-1--two.json",
+            "label": {
+              "none": [" two"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ioduok.github.io/the-speed-of-darkness/annotations/the-speed-of-darkness-canvas-1-first-poem.json",
+            "label": {
+              "none": ["first poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ioduok.github.io/the-speed-of-darkness/annotations/the-speed-of-darkness-canvas-1-introduction.json",
+            "label": {
+              "none": ["introduction"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ioduok.github.io/the-speed-of-darkness/the-speed-of-darkness/canvas-1/paintings",
